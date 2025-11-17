@@ -91,10 +91,7 @@ The dashboard provides a unified view of outlet and product performance, enablin
 
 ## **👤 Author & Contact**
 **Author:** Pramod Dhamane
-  
-  📧 [Email](pramodsd160@gmail.com)
-  
-  🔗 [LinkedIn](www.linkedin.com/in/pramoddhamane)
-  
-  📁 [GitHub](https://github.com/pramodsd160) 
+  - [Email](pramodsd160@gmail.com)
+  - [LinkedIn](www.linkedin.com/in/pramoddhamane)
+  - [GitHub](https://github.com/pramodsd160) 
 
