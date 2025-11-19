@@ -40,9 +40,8 @@ The dataset contains detailed information related to:
 -  Total Sales and Average Sales
 -  Outlet Establishment Year
 
-<code style="color : magenta"> Test </code>
-<code style="color : magenta"> **_(Source: check dataset folder)_** </code>
-**_(Source: check dataset folder)_***
+
+> **_(Source: check dataset folder)_**
 
 ---
 
@@ -53,7 +52,7 @@ The dataset contains detailed information related to:
 - **CSV** – *Raw dataset formats*
 - **Oracle SQL** - *Data Cleaning, Validation and Result*
 
-**_(SQL Queries : Check Other Resource folder)_***
+> **_(SQL Queries : Check Other Resource folder)_***
 
 ---
 
@@ -78,7 +77,7 @@ The final Power BI dashboard includes:
 * Category breakdowns (Item Type, Fat Content)
 * Interactive slicers for deep-dive analysis
 
-**_(Dashboard File: Check dashboard folder)_***
+> **_(Dashboard File: Check dashboard folder)_***
 
 ![Dashboard Preview](https://github.com/pramodsd160/blinkit-grocery-sales-and-outlet-performance-powerbi-sql/blob/main/image/blinkit-grocery-sales-and-outlet-performance.png)
 
